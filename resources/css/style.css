@@ -35,7 +35,7 @@ a.navbar-brand:hover   {color:#ce8483; background-color:transparent; text-decora
 }
 .icon-bar {background-color: white !important;}
 .jumbotron {
-  background-image: url("../CV/images/snap.jpg");
+  background-image: url("../images/snap.jpg");
   background-size: cover;
   margin-top: 50px;
   padding-bottom: 150px;
