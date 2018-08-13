@@ -1,4 +1,4 @@
 # cv
 personal CV
 
-https://katarzynabkapral.github.io/cv/
+https://katwlodarczyk.github.io/cv/
